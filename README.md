@@ -1,3 +1,5 @@
+<h1>Learning Serverless with Auth0</h1>
+
 <p align="center">
   <img src="https://codingly-assets.s3-eu-west-1.amazonaws.com/Codingly+Logo.png" width="200px" height="200px"/>
   </br>
@@ -21,6 +23,7 @@
 ## Getting started
 
 ### 1. Clone the repository (or generate a serverless project)
+
 ```sh
 sls create --name auth-service --template-url https://github.com/codingly-io/serverless-auth0-authorizer
 cd auth-service
